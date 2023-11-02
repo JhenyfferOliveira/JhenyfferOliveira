@@ -29,13 +29,13 @@
 
 <h2 align="left">📊 Who I am</h2>
 
-| Soft Skills   | Hard Skills        |
-| ------------- | ------------------ |
-| Accommodating | Python             |
-| Communicative | SQL                |
-| Organized     | Data Visualization |
-| Proactive     | Statistics         |
-| Committed     | ETL                |
+|🤝🏾 Soft Skills |💼 Hard Skills      |
+| -------------  | ----------------   |
+| Accommodating  | Python             |
+| Communicative  | SQL                |
+| Organized      | Data Visualization |
+| Proactive      | Statistics         |
+| Committed      | ETL                |
 
 ---
 
