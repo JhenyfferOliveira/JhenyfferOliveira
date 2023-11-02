@@ -47,11 +47,11 @@
 <h1 align="left">🚀 My projects</h1>
 <h4 align="justify">I've had the opportunity to work on a variety of data science projects that showcase my skills and expertise. Here are some of my notable projects:</h4>
 
-- [Project 1: ](https://github.com/JhenyfferOliveira/): To be completed.
+- [Project 1](https://github.com/JhenyfferOliveira/): To be completed.
 
-- [Project 2: ](https://github.com/JhenyfferOliveira/): To be completed.
+- [Project 2](https://github.com/JhenyfferOliveira/): To be completed.
 
-- [Project 3: ](https://github.com/JhenyfferOliveira/): To be completed.
+- [Project 3](https://github.com/JhenyfferOliveira/): To be completed.
 
 ---
 
