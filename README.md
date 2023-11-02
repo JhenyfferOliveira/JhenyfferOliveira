@@ -27,7 +27,7 @@
 
 ---
 
-<h2 align="left">🕵🏾‍♀️ Who I am</h2>
+<h2 align="left">🕵🏾‍♀️ Who am I</h2>
 
 |🤝🏾 Soft Skills |🗂️ Hard Skills      |
 | -------------  | ----------------   |
