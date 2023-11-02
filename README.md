@@ -13,7 +13,7 @@
 
 ---
 
-<h1 align="left">🕵🏾‍♀️ Meet Jhenyffer</h1>
+<h1 align="left">🎯 Meet Jhenyffer</h1>
 
 -> 🌱 I'm currently working on improving my hard skills in Python, databases, statistics, and data visualization with Power BI
 
@@ -27,9 +27,9 @@
 
 ---
 
-<h2 align="left">📊 Who I am</h2>
+<h2 align="left">🕵🏾‍♀️ Who I am</h2>
 
-|🤝🏾 Soft Skills |💼 Hard Skills      |
+|🤝🏾 Soft Skills |🗂️ Hard Skills      |
 | -------------  | ----------------   |
 | Accommodating  | Python             |
 | Communicative  | SQL                |
