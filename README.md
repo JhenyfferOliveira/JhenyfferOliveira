@@ -1,4 +1,4 @@
-[![Hello world!](GitHub.png)](https://github.com/JhenyfferOliveira?tab=repositories)
+[![Hello world!](header.png)](https://github.com/JhenyfferOliveira?tab=repositories)
 
 ---
 
