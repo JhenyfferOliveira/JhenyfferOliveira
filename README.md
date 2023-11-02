@@ -8,7 +8,7 @@
 
 ---
 
-<h1 align="center">👩🏾‍💻 About me</h1>
+<h1 align="left">👩🏾‍💻 About me</h1>
 <h3 align="justify">I have a background in data science and data visualization, with a foundation in Linguistics and Literature. Professionally, I've honed my skills in communication, organizational abilities, proactive problem-solving, and a high level of commitment. Proficient in English and Spanish, I'm also currently learning German and French, enabling me to work with information in multiple languages. I'm excited to apply these language skills and my passion for data to analyze complex information and create meaningful insights. This career transition reflects my pursuit of challenges and my determination to contribute to the world of data in an innovative and creative way. I'm eager to embrace this new journey.</h3>
 
 ---
