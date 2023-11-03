@@ -22,7 +22,7 @@
 
 -> 🎓 I’m learning all these technical skills in a bootcamp promoted by [iFood](https://www.news.ifood.com.br/) in partnership with [ADA Tech](https://ada.tech/) and powered by [Potência Tech](https://potenciatech.com.br/)
 
--> 📝 I share some of my experience about the transition (or expansion of my expertise) in articles on [medium](https://medium.com/@jhenyffer.trad)
+-> 📝 I share some of my experience about the transition (or expansion of my expertise) in articles on [medium](https://medium.com/@jhenyffer.tech)
 
 -> 📫 You can reach me at **jhenyffer.trad@gmail**
 
