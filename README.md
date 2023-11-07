@@ -12,7 +12,7 @@
 ---
 
 <h1 align="left">👩🏾‍💻 About me</h1>
-<div align="justify">I have a background in data science and data visualization, with a foundation in Linguistics and Literature. Professionally, I've honed my skills in communication, organizational abilities, proactive problem-solving, and a high level of commitment. Proficient in English and Spanish, I'm also currently learning German and French, enabling me to work with information in multiple languages. I'm excited to apply these language skills and my passion for data to analyze complex information and create meaningful insights. This career transition reflects my pursuit of challenges and my determination to contribute to the world of data in an innovative and creative way. I'm results-oriented and eager to embrace this new journey.</div>
+<div align="justify">I am doing a bootcamp in data science and data visualization, with a foundation in Linguistics and Literature. Professionally, I've honed my skills in communication, organizational abilities, proactive problem-solving, and a high level of commitment. Proficient in English and Spanish, I'm also currently learning German and French, enabling me to work with information in multiple languages. I'm excited to apply these language skills and my passion for data to analyze complex information and create meaningful insights. This career transition reflects my pursuit of challenges and my determination to contribute to the world of data in an innovative and creative way. I'm results-oriented and eager to embrace this new journey.</div>
 
 ---
 
@@ -22,9 +22,9 @@
 
 -> 🎓 I’m learning all these technical skills in a bootcamp promoted by [iFood](https://www.news.ifood.com.br/) in partnership with [ADA Tech](https://ada.tech/) and powered by [Potência Tech](https://potenciatech.com.br/)
 
--> 📝 I share some of my experience about the transition (or expansion of my expertise) in articles on [medium](https://medium.com/@jhenyffer.tech)
+-> 📝 I share some of my experience about this expansion of my expertise in articles on [medium](https://medium.com/@jhenyffer.tech)
 
--> 📫 You can reach me at **jhenyffer.trad@gmail**
+-> 📫 You can reach me at **jhenyffer.tech@gmail**
 
 -> 💬 You can also connect with me at [LinkedIn](https://linkedin.com/in/jhenyfferoliveira)
 
@@ -47,14 +47,7 @@
 
 ---
 
-<h1 align="left">🚀 My projects</h1>
-<div align="justify">I've had the opportunity to work on a variety of data science projects that showcase my skills and expertise. Here are some of my notable projects:</div>
 
-- [Project 1](https://github.com/JhenyfferOliveira/): To be completed.
-
-- [Project 2](https://github.com/JhenyfferOliveira/): To be completed.
-
-- [Project 3](https://github.com/JhenyfferOliveira/): To be completed.
 
 ---
 
