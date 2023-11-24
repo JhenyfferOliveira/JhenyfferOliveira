@@ -47,7 +47,14 @@
 
 ---
 
+<h1 align="left">🚀 My Projects</h1>
+<div align="justify">I've had the opportunity to work on a variety of projects that showcase my learning and the skills I've acquired. These projects highlight my understanding and application of various concepts learned throughout my career transition. Here are some of my notable projects:</div>
 
+
++ [Project 1](https://github.com/JhenyfferOliveira/Projeto-LPI): Final Project for Programming Language I. This repository contains my final project for the Programming Language I course, emphasizing several fundamental concepts in Python.
+
+
++ [Project 2](https://github.com/JhenyfferOliveira/Projeto-LPII-ifood-vem-ser-tech---Controle-de-estoque): Final Project for Programming Language II. This repository contains my final project for the Programming Language II course, focusing on several intermediate concepts in Python.
 
 ---
 
