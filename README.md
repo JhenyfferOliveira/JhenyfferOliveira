@@ -12,7 +12,7 @@
 ---
 
 <h1 align="left">👩🏾‍💻 About me</h1>
-<div align="justify">I am doing a bootcamp in data science and data visualization, with a academic foundation in Linguistics and Literature. Professionally, I've honed my skills in communication, organizational abilities, proactive problem-solving, and a high level of commitment. Proficient in English and Spanish, I'm also currently learning German and French, enabling me to work with information in multiple languages. I'm excited to apply these language skills and my passion for data to analyze complex information and create meaningful insights. This career transition reflects my pursuit of challenges and my determination to contribute to the world of data in an innovative and creative way. I'm results-oriented and eager to embrace this new journey.</div>
+<div align="justify">I am studying data science and data visualization, with an academic background in Linguistics and Literature. Professionally, I've honed my skills in communication, organizational abilities, proactive problem-solving, and a high level of commitment. Proficient in English and Spanish, I'm also currently learning German and French, enabling me to work with information in multiple languages. I'm excited to apply these language skills and my passion for data to analyze complex information and create meaningful insights. This career transition reflects my pursuit of challenges and my determination to contribute to the world of data in an innovative and creative way. I'm results-oriented and eager to embrace this new journey.</div>
 
 ---
 
@@ -20,9 +20,7 @@
 
 -> 🌱 I'm currently working on improving my hard skills in Python, databases, statistics, and data visualization with Power BI
 
--> 🎓 I’m learning all these technical skills in a bootcamp promoted by [iFood](https://www.news.ifood.com.br/) in partnership with [ADA Tech](https://ada.tech/) and powered by [Potência Tech](https://potenciatech.com.br/)
-
--> 📝 I share some of my experience about this career transition in articles on [medium](https://medium.com/@jhenyffer.tech)
+-> 📝 I share some of my experience about my career transition in articles on [medium](https://medium.com/@jhenyffer.tech)
 
 -> 📫 You can reach me at **jhenyffer.tech@gmail**
 
@@ -47,14 +45,7 @@
 
 ---
 
-<h1 align="left">🚀 My Projects</h1>
-<div align="justify">I've had the opportunity to work on a variety of projects that showcase my learning and the skills I've acquired. These projects highlight my understanding and application of various concepts learned throughout my career transition. Here are some of my notable projects:</div>
 
-
-+ [Project 1](https://github.com/JhenyfferOliveira/Projeto-LPI): Final Project for Programming Language I. This repository contains my final project for the Programming Language I course, emphasizing several fundamental concepts in Python.
-
-
-+ [Project 2](https://github.com/JhenyfferOliveira/Projeto-LPII-ifood-vem-ser-tech---Controle-de-estoque): Final Project for Programming Language II. This repository contains my final project for the Programming Language II course, focusing on several intermediate concepts in Python.
 
 ---
 
