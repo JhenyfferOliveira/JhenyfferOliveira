@@ -22,7 +22,7 @@
 
 -> 📝 I share some of my experience about my career transition in articles on [medium](https://medium.com/@jhenyffer.tech)
 
--> 📫 You can reach me at **jhenyffer.tech@gmail**
+-> 📫 You can reach me at **jhenyffer.tech@gmail.com**
 
 -> 💬 You can also connect with me at [LinkedIn](https://linkedin.com/in/jhenyfferoliveira)
 
