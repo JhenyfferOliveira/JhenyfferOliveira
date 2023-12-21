@@ -45,14 +45,23 @@
 
 ---
 
+<h1 align="left">🚀 My Projects</h1>
+<div align="justify">I've had the opportunity to work on a variety of projects that showcase my learning and the skills I've acquired. These projects highlight my understanding and application of various concepts learned throughout my career transition. Here are some of my notable projects:</div>
 
+
++ [Project 1](https://github.com/JhenyfferOliveira/Projeto-LPI): Final Project for Programming Language I. This repository contains my final project for the Programming Language I course, highlighting several fundamental concepts in Python.
+
+
++ [Project 2](https://github.com/JhenyfferOliveira/Projeto-LPII-ifood-vem-ser-tech---Controle-de-estoque): Final Project for Programming Language II. This repository covers my final project for the Programming Language II course, focusing on various intermediate concepts in Python.
+
+
++ [Project 3](https://github.com/JhenyfferOliveira/Projeto-BancodeDados-Ada): Final Project for Database. This repository displays my final project for the Database course, featuring SQL query commands and the integration of PostgreSQL with Python.
 
 ---
 
 <h1 align="left">🤓 Languages and tools</h1>
-<p align="left"> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="juppyter" width="40" height="40"/> </a> </p>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
