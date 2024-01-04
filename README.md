@@ -18,13 +18,27 @@
 
 <h1 align="left">🎯 Meet Jhenyffer</h1>
 
--> 🌱 I'm currently working on improving my hard skills in Python, databases, statistics, and data visualization with Power BI
+-> 🌱 I'm currently working on improving my hard skills in Python, Django, databases, statistics, and data visualization with Power BI
 
 -> 📝 I share some of my experience about my career transition in articles on [medium](https://medium.com/@jhenyffer.tech)
 
 -> 📫 You can reach me at **jhenyffer.tech@gmail.com**
 
 -> 💬 You can also connect with me at [LinkedIn](https://linkedin.com/in/jhenyfferoliveira)
+
+---
+
+<h1 align="left">🚀 My Projects</h1>
+<div align="justify">I've had the opportunity to work on a variety of projects that showcase my learning and the skills I've acquired. These projects highlight my understanding and application of various concepts learned throughout my career transition. Here are some of my notable projects:</div>
+
+
++ [Project 1](https://github.com/JhenyfferOliveira/Projeto-LPI): Final Project for Programming Language I. This repository contains my final project for the Programming Language I course, highlighting several fundamental concepts in Python.
+
+
++ [Project 2](https://github.com/JhenyfferOliveira/Projeto-LPII-ifood-vem-ser-tech---Controle-de-estoque): Final Project for Programming Language II. This repository covers my final project for the Programming Language II course, focusing on various intermediate concepts in Python.
+
+
++ [Project 3](https://github.com/JhenyfferOliveira/Projeto-BancodeDados-Ada): Final Project for Database. This repository displays my final project for the Database course, featuring SQL query commands and the integration of PostgreSQL with Python.
 
 ---
 
@@ -42,20 +56,6 @@
 
 <h1 align="left">🔎 What I believe</h1>
 <div align="justify">I have continuous learning as a focus in my career, always seeking updates and new skills. This is demonstrated by my commitment to constantly explore new techniques, tools, and approaches, culminating in a lifelong learning perspective. I believe that continuous learning is essential to keep up with the rapid changes in the field of data science and to deliver innovative and high-quality data analysis.</div>
-
----
-
-<h1 align="left">🚀 My Projects</h1>
-<div align="justify">I've had the opportunity to work on a variety of projects that showcase my learning and the skills I've acquired. These projects highlight my understanding and application of various concepts learned throughout my career transition. Here are some of my notable projects:</div>
-
-
-+ [Project 1](https://github.com/JhenyfferOliveira/Projeto-LPI): Final Project for Programming Language I. This repository contains my final project for the Programming Language I course, highlighting several fundamental concepts in Python.
-
-
-+ [Project 2](https://github.com/JhenyfferOliveira/Projeto-LPII-ifood-vem-ser-tech---Controle-de-estoque): Final Project for Programming Language II. This repository covers my final project for the Programming Language II course, focusing on various intermediate concepts in Python.
-
-
-+ [Project 3](https://github.com/JhenyfferOliveira/Projeto-BancodeDados-Ada): Final Project for Database. This repository displays my final project for the Database course, featuring SQL query commands and the integration of PostgreSQL with Python.
 
 ---
 
