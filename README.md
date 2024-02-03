@@ -41,7 +41,7 @@
 <h1 align="left">🚀 My Projects</h1>
 <div align="justify">I've had the opportunity to work on a variety of projects that showcase my learning and the skills I've acquired. These projects highlight my understanding and application of various concepts learned throughout my career transition. Below are some of my notable projects.</div>
 
-<div align="justify"><h2>Bootcamp Ada Tech – Data Analysis</h2></div>
+<div align="justify"><h2><a href="https://ada.tech/" target="_blank" rel="noreferrer"> <img src="adatech.jpg" alt="Ada Tech" width="40" height="40"/></a> Bootcamp Ada Tech – Data Analysis</h2></div>
 <div align="justify">As a student, I was responsible for the development of the following projects:</div>
 
 + [Project 1](https://github.com/JhenyfferOliveira/Projeto-LPI): This repository contains my final project for the Programming Language I course, highlighting several fundamental concepts in Python.
@@ -53,13 +53,13 @@
 + [Project 4](https://github.com/JhenyfferOliveira/Projeto-AnaliseDados-Ada): This repository showcases my final project for the Programming Techniques course, highlighting the integration of pandas and matplotlib, Python libraries, for data analysis, visualization and manipulation of dataframes.
 
 
-<div align="justify"><h2>Bootcamp WoMakersCode – Back-end Python and Django</h2></div>
+<div align="justify"><h2><a href="https://womakerscode.org/" target="_blank" rel="noreferrer"> <img src="womakerscode.png" alt="WoMakersCode" width="40" height="35"/></a> Bootcamp WoMakersCode – Back-end Python and Django</h2></div>
 <div align="justify">As a student, I was responsible for the development of the following projects:</div>
 
 + [Project 1](https://github.com/JhenyfferOliveira/html5-css3-womakerscode): This repository contains my final project for the HTML5 and CSS3 course, highlighting several fundamental concepts in HTML language.
 
 
-<div align="justify"><h2>Personal Projects</h2></div>
+<div align="justify"><h2><h2><img src="estudos-independentes.png" alt="Computador" width="40" height="40"/> Personal Projects</h2></div>
 <div align="justify">As an autonomous student, I was responsible for the development of the following projects:</div>
 
 + [Project 1](https://github.com/JhenyfferOliveira/Projeto-I): This repository covers my final project for the Programming Language II course, focusing on various intermediate concepts in Python.
