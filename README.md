@@ -3,7 +3,7 @@
 ---
 
 <h1 align="center">Hi 👋🏾 I'm Jhenyffer</h1>
-<h3 align="center">A passionate beginner data scientist developer from Brazil</h3>
+<h3 align="center">A passionate beginner data analyst and back-end developer from Brazil</h3>
 
 
 <div align="center" > Python - Django - SQL - Databases - Data Visualization - ETL - Statistics </div>
