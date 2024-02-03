@@ -46,7 +46,7 @@
 
 + [Project 1](https://github.com/JhenyfferOliveira/Projeto-LPI): This repository contains my final project for the Programming Language I course, highlighting several fundamental concepts in Python.
 
-+ [Project 2](https://github.com/JhenyfferOliveira/Projeto-LPII-ifood-vem-ser-tech---Controle-de-estoque): This repository covers my final project for the Programming Language II course, focusing on various intermediate concepts in Python.
++ [Project 2](https://github.com/JhenyfferOliveira/Projeto-LPII-Ada): This repository covers my final project for the Programming Language II course, focusing on various intermediate concepts in Python.
 
 + [Project 3](https://github.com/JhenyfferOliveira/Projeto-BancodeDados-Ada): This repository displays my final project for the Database course, featuring SQL query commands and the integration of PostgreSQL with Python.
 
