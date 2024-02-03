@@ -18,9 +18,9 @@
   </p>
   <p>
   <h3>🤝🏾 Soft Skills</h3>
-    Accommodating, Communicative, Organized, Proactive, Committed
+    Accommodating, communicative, organized, proactive, and committed.
   <h3>🗂️ Hard Skills</h3>
-    Python (libraries and Django framework), SQL, ETL and Database Management, Data Visualization, Statistics 
+    Python (libraries and Django framework), SQL, ETL and database manipulation, data visualization, and statistics.
   </p>
 </div>
 
