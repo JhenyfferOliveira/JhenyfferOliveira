@@ -85,4 +85,4 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="60"/></a>
 <a href="https://dbeaver.io/" target="_blank" rel="noreferrer"><img src="https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png" alt="Dbeaver" height="60"/></a>
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter" width="80" height="60"/></a>
-<a href="https://powerbi.microsoft.com/pt-br/" target="_blank" rel="noreferrer" <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="PowerBI" height="60"/></a>
+<a href="https://powerbi.microsoft.com/pt-br/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="PowerBI" height="60"/></a>
