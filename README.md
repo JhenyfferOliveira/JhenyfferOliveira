@@ -77,11 +77,11 @@
 ---
 
 <h1 align="left">🤓 Languages and tools</h1>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="60"/></a>
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354127/numpy.svg" alt="Numpy" height="60"/></a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas"height="60"/></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/django-icon-1606x2048-lwmw1z73.png" alt="Django" height="60"/></a>
-<a href="https://pt.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" height="60"/></a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="60"/></a>
-<a href="https://dbeaver.io/" target="_blank" rel="noreferrer"><img src="https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png" alt="Dbeaver" height="60"/></a>
-<a href="https://powerbi.microsoft.com/pt-br/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="PowerBI" height="60"/></a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="60"></a>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354127/numpy.svg" alt="Numpy" height="60"></a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas"height="60"></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/django-icon-1606x2048-lwmw1z73.png" alt="Django" height="60"></a>
+<a href="https://pt.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" height="60"></a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="60"></a>
+<a href="https://dbeaver.io/" target="_blank" rel="noreferrer"><img src="https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png" alt="Dbeaver" height="60"></a>
+<a href="https://powerbi.microsoft.com/pt-br/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="PowerBI" height="60"></a>
