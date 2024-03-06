@@ -41,7 +41,7 @@
 <h1 align="left">🚀 My Projects</h1>
 <div align="justify">I've had the opportunity to work on a variety of projects that showcase my learning and the skills I've acquired. These projects highlight my understanding and application of various concepts learned throughout my career transition. Below are some of my notable projects.</div>
 
-<div align="justify"><h2><a href="https://ada.tech/" target="_blank" rel="noreferrer"> <img src="adatech.jpg" alt="Ada Tech" width="20" height="20"/></a> Bootcamp by Ada Tech – Data Analysis</h2></div>
+<div align="justify"><h2><a href="https://ada.tech/" target="_blank" rel="noreferrer"> <img src="adatech.jpg" alt="Ada Tech" width="20" height="20"/></a> Bootcamp by Ada Tech – Data Science</h2></div>
 <div align="justify">As a student, I was responsible for the development of the following projects:</div>
 
 + [Project 5](https://github.com/JhenyfferOliveira/Projeto-Estatistica-Ada): This repository hosts my final project, illustrating the process of managing, cleaning, processing, preparing, conducting statistical analysis, and visualizing data.
