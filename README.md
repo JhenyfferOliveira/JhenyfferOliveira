@@ -44,23 +44,23 @@
 <div align="justify"><h2><a href="https://ada.tech/" target="_blank" rel="noreferrer"> <img src="adatech.jpg" alt="Ada Tech" width="20" height="20"/></a> Bootcamp by Ada Tech – Data Analysis</h2></div>
 <div align="justify">As a student, I was responsible for the development of the following projects:</div>
 
-+ [Project 1](https://github.com/JhenyfferOliveira/Projeto-LPI): This repository contains my final project for the Programming Language I course, highlighting several fundamental concepts in Python.
-
-+ [Project 2](https://github.com/JhenyfferOliveira/Projeto-LPII-Ada): This repository covers my final project for the Programming Language II course, focusing on various intermediate concepts in Python.
-
-+ [Project 3](https://github.com/JhenyfferOliveira/Projeto-BancodeDados-Ada): This repository displays my final project for the Database course, featuring SQL query commands and the integration of PostgreSQL with Python.
++ [Project 5](https://github.com/JhenyfferOliveira/Projeto-Estatistica-Ada): This repository hosts my final project, illustrating the process of managing, cleaning, processing, preparing, conducting statistical analysis, and visualizing data.
 
 + [Project 4](https://github.com/JhenyfferOliveira/Projeto-AnaliseDados-Ada): This repository showcases my final project for the Programming Techniques course, highlighting the integration of pandas and matplotlib, Python libraries, for data analysis, visualization and manipulation of dataframes.
 
-+ [Project 5](https://github.com/JhenyfferOliveira/Projeto-Estatistica-Ada): This repository hosts my final project, illustrating the process of managing, cleaning, processing, preparing, conducting statistical analysis, and visualizing data.
++ [Project 3](https://github.com/JhenyfferOliveira/Projeto-BancodeDados-Ada): This repository displays my final project for the Database course, featuring SQL query commands and the integration of PostgreSQL with Python.
+
++ [Project 2](https://github.com/JhenyfferOliveira/Projeto-LPII-Ada): This repository covers my final project for the Programming Language II course, focusing on various intermediate concepts in Python.
+
++ [Project 1](https://github.com/JhenyfferOliveira/Projeto-LPI): This repository contains my final project for the Programming Language I course, highlighting several fundamental concepts in Python.
 
 
 <div align="justify"><h2><a href="https://womakerscode.org/" target="_blank" rel="noreferrer"> <img src="womakerscode.png" alt="WoMakersCode" width="20" height="18"/></a> Bootcamp by WoMakersCode – Back-end Python and Django</h2></div>
 <div align="justify">As a student, I was responsible for the development of the following projects:</div>
 
-+ [Project 1](https://github.com/JhenyfferOliveira/HTML5-CSS3-WoMakersCode): This repository contains my final project for the HTML5 and CSS3 course, highlighting several fundamental concepts in HTML language.
-
 + [Project 2](https://github.com/JhenyfferOliveira/POO-BD-WoMakersCode): This repository covers my final project for the Object-Oriented Programming and Databases courses, where I practiced fundamental concepts in Python and SQL.
+
++ [Project 1](https://github.com/JhenyfferOliveira/HTML5-CSS3-WoMakersCode): This repository contains my final project for the HTML5 and CSS3 course, highlighting several fundamental concepts in HTML language.
 
 
 <div align="justify"><h2><h2><img src="estudos-independentes.png" alt="Computador" width="20" height="20"/> Personal Projects</h2></div>
