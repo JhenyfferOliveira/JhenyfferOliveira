@@ -58,9 +58,7 @@
 <div align="justify"><h2><a href="https://womakerscode.org/" target="_blank" rel="noreferrer"> <img src="womakerscode.png" alt="WoMakersCode" width="20" height="18"/></a> Bootcamp by WoMakersCode – Back-end Python and Django</h2></div>
 <div align="justify">As a student, I was responsible for the development of the following projects:</div>
 
-+ [Project 5](https://github.com/JhenyfferOliveira/app-Django-WoMakersCode): This project involves an exercise in creating an application with Django and interacting with a database using the Python language. This challenge was completed individually.
-
-+ [Project 4](https://github.com/JhenyfferOliveira/desafio-FlaskWebAppIA): This repository showcases my solution for the challenge of creating a website with Flask to consume Azure's translation AI using the Python language.
++ [Project 4](https://github.com/JhenyfferOliveira/app-Django-WoMakersCode): This project involves an exercise in creating an application with Django and interacting with a database using the Python language. This challenge was completed individually.
 
 + [Project 3](https://github.com/JhenyfferOliveira/Flask-API-WoMakersCode): This repository displays my project for the API course, featuring a Flask-based API for data consumption.
 
