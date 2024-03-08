@@ -58,6 +58,8 @@
 <div align="justify"><h2><a href="https://womakerscode.org/" target="_blank" rel="noreferrer"> <img src="womakerscode.png" alt="WoMakersCode" width="20" height="18"/></a> Bootcamp by WoMakersCode – Back-end Python and Django</h2></div>
 <div align="justify">As a student, I was responsible for the development of the following projects:</div>
 
++ [Project 3](https://github.com/JhenyfferOliveira/Flask-API-WoMakersCode): This repository displays my project for the API course, featuring a Flask-based API for data consumption.
+
 + [Project 2](https://github.com/JhenyfferOliveira/POO-BD-WoMakersCode): This repository covers my final project for the Object-Oriented Programming and Databases courses, where I practiced fundamental concepts in Python and SQL.
 
 + [Project 1](https://github.com/JhenyfferOliveira/HTML5-CSS3-WoMakersCode): This repository contains my final project for the HTML5 and CSS3 course, highlighting several fundamental concepts in HTML language.
