@@ -44,6 +44,8 @@
 <div align="justify"><h2><a href="https://ada.tech/" target="_blank" rel="noreferrer"> <img src="adatech.jpg" alt="Ada Tech" width="20" height="20"/></a> Bootcamp by Ada Tech – Data Science</h2></div>
 <div align="justify">As a student, I was responsible for the development of the following projects:</div>
 
++ [Project 6](https://github.com/JhenyfferOliveira/Projeto-PowerBI-Ada): This repository presents my Final Project for the Power BI course, demonstrating the complete process of managing, cleaning, processing, preparing, conducting statistical analysis, and visualizing data.
+
 + [Project 5](https://github.com/JhenyfferOliveira/Projeto-Estatistica-Ada): This repository hosts my final project, illustrating the process of managing, cleaning, processing, preparing, conducting statistical analysis, and visualizing data.
 
 + [Project 4](https://github.com/JhenyfferOliveira/Projeto-AnaliseDados-Ada): This repository showcases my final project for the Programming Techniques course, highlighting the integration of pandas and matplotlib, Python libraries, for data analysis, visualization and manipulation of dataframes.
