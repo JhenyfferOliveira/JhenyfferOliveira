@@ -41,10 +41,16 @@
 <h1 align="left">🚀 My Projects</h1>
 <div align="justify">I've had the opportunity to work on a variety of projects that showcase my learning and the skills I've acquired. These projects highlight my understanding and application of various concepts learned throughout my career transition. Below are some of my notable projects.</div>
 
+<div align="justify"><h2>🏆 Hackaton</h2></div>
+<div align="justify">As a participant in hackathons events, I contributed to the development of the following projects:</div>
+
++ [Competition 1 – Ada Hack](https://github.com/JhenyfferOliveira/Hackaton-ADAHACK): As a member of team DD-08, known as InclusiData Alchemy, I designed a diversity and inclusion solution based on data provided by Corp Solutions, a fictitious company for the competition. This project won **2nd place** in the data category, among nine teams.
+
+  
 <div align="justify"><h2><a href="https://ada.tech/" target="_blank" rel="noreferrer"> <img src="adatech.jpg" alt="Ada Tech" width="20" height="20"/></a> Bootcamp by Ada Tech – Data Science</h2></div>
 <div align="justify">As a student, I was responsible for the development of the following projects:</div>
 
-+ [Project 6](https://github.com/JhenyfferOliveira/Projeto-PowerBI-Ada): This repository presents my Final Project for the Power BI course, demonstrating the complete process of managing, cleaning, processing, preparing, conducting statistical analysis, and visualizing data.
++ [Project 6](https://github.com/JhenyfferOliveira/Projeto-PowerBI-Ada): This repository presents my final project for the Power BI course, demonstrating the complete process of managing, cleaning, processing, preparing, conducting statistical analysis, and visualizing data.
 
 + [Project 5](https://github.com/JhenyfferOliveira/Projeto-Estatistica-Ada): This repository hosts my final project, illustrating the process of managing, cleaning, processing, preparing, conducting statistical analysis, and visualizing data.
 
@@ -60,7 +66,9 @@
 <div align="justify"><h2><a href="https://womakerscode.org/" target="_blank" rel="noreferrer"> <img src="womakerscode.png" alt="WoMakersCode" width="20" height="18"/></a> Bootcamp by WoMakersCode – Back-end Python and Django</h2></div>
 <div align="justify">As a student, I was responsible for the development of the following projects:</div>
 
-+ [Project 4](https://github.com/JhenyfferOliveira/app-Django-WoMakersCode): This project involves an exercise in creating an application with Django and interacting with a database using the Python language. This challenge was completed individually.
++ [Project 5](https://github.com/JhenyfferOliveira/BlogNoticias-Django-WoMakersCode):This project showcases my final project for the Django module in Python course, in which a news blog was created using Django tools to handle front-end, database, and back-end functionalities.
+
++ [Project 4](https://github.com/JhenyfferOliveira/ProjetoCurso-Django-WoMakersCode): This project involves an exercise in creating an application with Django and interacting with a database using the Python language. This challenge was completed individually.
 
 + [Project 3](https://github.com/JhenyfferOliveira/Flask-API-WoMakersCode): This repository displays my project for the API course, featuring a Flask-based API for data consumption.
 
@@ -85,7 +93,9 @@
 <h1 align="left">🤓 Languages and tools</h1>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="60"></a>
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354127/numpy.svg" alt="Numpy" height="60"></a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas"height="60"></a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="Pandas" height="80"></a>
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="80"></a>
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="70"></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/django-icon-1606x2048-lwmw1z73.png" alt="Django" height="60"></a>
 <a href="https://pt.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" height="60"></a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="60"></a>
