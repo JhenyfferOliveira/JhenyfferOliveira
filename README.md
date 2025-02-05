@@ -3,10 +3,10 @@
 ---
 
 <h1 align="center">Hi 👋🏾 I'm Jhenyffer</h1>
-<h3 align="center">A passionate beginner data analyst and back-end developer from Brazil</h3>
+<h3 align="center">A passionate junior data analyst from Brazil</h3>
 
 
-<div align="center" > Python - Django - SQL - Databases - Data Visualization - ETL - Statistics </div>
+<div align="center" > Python - SQL - Databases - Data Visualization - Statistics </div>
 
 
 ---
@@ -14,13 +14,13 @@
 <h1 align="left">👩🏾‍💻 About me</h1>
 <div align="justify">
   <p>
-    I am currently studying data science and visualization, as well as back-end development, with an academic background in Linguistics and Literature. Proficient in English and Spanish, I'm also currently learning German, enabling me to work with information in multiple languages. I aim to broaden my professional scope by combining my linguistic and analytical skills with my interest in data and back-end development. I'm results-oriented and eager to embrace this new journey.
+    I am a data analyst currently studying data science and analytics, with an academic background in Linguistics and Literature. Proficient in English and Spanish, I am also currently learning French, allowing me to work with information in multiple languages. I combine my linguistic and analytical skills with my interest in data. I am results-oriented, creative, and resilient in the face of challenges and adversity.
   </p>
   <p>
   <h3>🤝🏾 Soft Skills</h3>
     Accommodating, communicative, organized, proactive, and committed.
   <h3>🗂️ Hard Skills</h3>
-    Python (libraries and Django framework), SQL, ETL and database manipulation, data visualization, and statistics.
+    Python (libraries and Django framework), SQL, database manipulation, data visualization, and statistics.
   </p>
 </div>
 
@@ -28,9 +28,9 @@
 
 <h1 align="left">🎯 Meet Jhenyffer</h1>
 
--> 🌱 I'm currently working on improving my hard skills in Python, Django, databases, statistics, and data visualization with Power BI
+-> 🌱 I'm currently working on improving my hard skills in Python, SQL, statistics, and data visualization (Power BI, Tableau, excel)
 
--> 📝 I share some of my experience about my career transition in articles on [medium](https://medium.com/@jhenyffer.tech)
+-> 📝 I share some of my experience about my career in articles on [medium](https://medium.com/@jhenyffer.tech)
 
 -> 📫 You can reach me at **jhenyffer.tech@gmail.com**
 
