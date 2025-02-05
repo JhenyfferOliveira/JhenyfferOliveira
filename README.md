@@ -14,7 +14,7 @@
 <h1 align="left">👩🏾‍💻 About me</h1>
 <div align="justify">
   <p>
-    I am a data analyst currently studying data science and analytics, with an academic background in Linguistics and Literature. Proficient in English and Spanish, I am also currently learning French, allowing me to work with information in multiple languages. I combine my linguistic and analytical skills with my interest in data. I am results-oriented, creative, and resilient in the face of challenges and adversity.
+    I am a data analyst currently studying Data Science and Analytics, with an academic background in Linguistics and Literature. Proficient in English and Spanish, I am also currently learning French, allowing me to work with information in multiple languages. I combine my linguistic and analytical skills with my interest in data. I am results-oriented, creative, and resilient in the face of challenges and adversity.
   </p>
   <p>
   <h3>🤝🏾 Soft Skills</h3>
