@@ -28,7 +28,7 @@
 
 <h1 align="left">🎯 Meet Jhenyffer</h1>
 
--> 🌱 I'm currently working on improving my hard skills in Python, SQL, statistics, and data visualization (Power BI, Tableau, excel)
+-> 🌱 I'm currently working on improving my hard skills in Python, SQL, statistics, and data visualization (Power BI, Tableau, Excel)
 
 -> 📝 I share some of my experience about my career in articles on [medium](https://medium.com/@jhenyffer.tech)
 
