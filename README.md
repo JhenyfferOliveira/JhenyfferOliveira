@@ -46,6 +46,12 @@
 
 + [Competition 1 – Ada Hack](https://github.com/JhenyfferOliveira/Hackaton-ADAHACK): As a member of team DD-08, known as InclusiData Alchemy, I designed a diversity and inclusion solution based on data provided by Corp Solutions, a fictitious company for the competition. This project won **2nd place** in the data category, among nine teams.
 
+
+<div align="justify"><h2><img src="estudos-independentes.png" alt="Computador" width="20" height="20"/> Personal Projects</h2></div>
+<div align="justify">As an autonomous student, I was responsible for the development of the following projects:</div>
+
++ [Project 1](https://github.com/JhenyfferOliveira/etl-espaco-logos): This repository contains an Instagram data pipeline for an NGO, which collects social media metrics via the Meta API, stores raw data in Google Sheets, and powers dashboards in Looker using Python automation.
+
   
 <div align="justify"><h2><a href="https://ada.tech/" target="_blank" rel="noreferrer"> <img src="adatech.jpg" alt="Ada Tech" width="20" height="20"/></a> Bootcamp by Ada Tech – Data Science</h2></div>
 <div align="justify">As a student, I was responsible for the development of the following projects:</div>
@@ -75,12 +81,6 @@
 + [Project 2](https://github.com/JhenyfferOliveira/POO-BD-WoMakersCode): This repository covers my final project for the Object-Oriented Programming and Databases courses, where I practiced fundamental concepts in Python and SQL.
 
 + [Project 1](https://github.com/JhenyfferOliveira/HTML5-CSS3-WoMakersCode): This repository contains my final project for the HTML5 and CSS3 course, highlighting several fundamental concepts in HTML language.
-
-
-<div align="justify"><h2><h2><img src="estudos-independentes.png" alt="Computador" width="20" height="20"/> Personal Projects</h2></div>
-<div align="justify">As an autonomous student, I was responsible for the development of the following projects:</div>
-
-+ [Project 1](https://github.com/JhenyfferOliveira/Projeto-I): This repository contains a personal project using a Kaggle dataset for practicing data analysis with Python libraries.
 
 
 ---
