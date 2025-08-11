@@ -6,7 +6,7 @@
 <h3 align="center">A passionate junior data analyst from Brazil</h3>
 
 
-<div align="center" > Python - SQL - Databases - Data Visualization - Statistics </div>
+<div align="center" > SQL - Python -  Statistics - Data Analysis - Data Visualization - </div>
 
 
 ---
@@ -14,13 +14,13 @@
 <h1 align="left">👩🏾‍💻 About me</h1>
 <div align="justify">
   <p>
-    I am a data analyst currently studying Data Science and Analytics, with an academic background in Linguistics and Literature. Proficient in English and Spanish, I am also currently learning French, allowing me to work with information in multiple languages. I combine my linguistic and analytical skills with my interest in data. I am results-oriented, creative, and resilient in the face of challenges and adversity.
+    I am a data analyst currently studying Data Science and Analytics, with an academic background in Linguistics and Literature. Proficient in English and Spanish, I am also learning French, allowing me to work with information in multiple languages. I combine my linguistic and analytical skills with my interest in data. I am results-oriented, creative, and resilient in the face of challenges and adversity.
   </p>
   <p>
   <h3>🤝🏾 Soft Skills</h3>
     Accommodating, communicative, organized, proactive, and committed.
   <h3>🗂️ Hard Skills</h3>
-    Python (libraries and Django framework), SQL, database manipulation, data visualization, and statistics.
+    Python (libraries and Django framework), SQL, data manipulation, data visualization, and statistics.
   </p>
 </div>
 
@@ -28,7 +28,7 @@
 
 <h1 align="left">🎯 Meet Jhenyffer</h1>
 
--> 🌱 I'm currently working on improving my hard skills in Python, SQL, statistics, and data visualization (Power BI, Tableau, Excel)
+-> 🌱 I'm currently working on improving my hard skills in SQL, Python, statistics, and data visualization (Power BI, Tableau, Looker Studio, Excel)
 
 -> 📝 I share some of my experience about my career in articles on [medium](https://medium.com/@jhenyffer.tech)
 
@@ -96,9 +96,12 @@
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="Pandas" height="80"></a>
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="80"></a>
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="70"></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/django-icon-1606x2048-lwmw1z73.png" alt="Django" height="60"></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/373554/django.svg" alt="Django" height="60"></a>
 <a href="https://pt.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" height="60"></a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="60"></a>
 <a href="https://dbeaver.io/" target="_blank" rel="noreferrer"><img src="https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png" alt="Dbeaver" height="60"></a>
+<a href="https://sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/374094/sqlite.svg" alt="SQLite" height="60"></a>
+<a href="https://www.metabase.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354063/metabase.svg" alt="Metabase" height="60"></a>
 <a href="https://powerbi.microsoft.com/pt-br/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="PowerBI" height="60"></a>
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://cdn.freelogovectors.net/wp-content/uploads/2023/05/tableau_logo-freelogovectors.net_.png" alt="Tableau" height="60"></a>
+<a href="https://looker.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354012/looker-icon.svg" alt="Looker Studio" width="60"></a>
