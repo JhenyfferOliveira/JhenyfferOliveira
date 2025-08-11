@@ -41,18 +41,18 @@
 <h1 align="left">🚀 My Projects</h1>
 <div align="justify">I've had the opportunity to work on a variety of projects that showcase my learning and the skills I've acquired. These projects highlight my understanding and application of various concepts learned throughout my career transition. Below are some of my notable projects.</div>
 
-<div align="justify"><h2>🏆 Hackaton</h2></div>
-<div align="justify">As a participant in hackathons events, I contributed to the development of the following projects:</div>
-
-+ [Competition 1 – Ada Hack](https://github.com/JhenyfferOliveira/Hackaton-ADAHACK): As a member of team DD-08, known as InclusiData Alchemy, I designed a diversity and inclusion solution based on data provided by Corp Solutions, a fictitious company for the competition. This project won **2nd place** in the data category, among nine teams.
-
-
 <div align="justify"><h2><img src="estudos-independentes.png" alt="Computador" width="20" height="20"/> Personal Projects</h2></div>
 <div align="justify">As an autonomous student, I was responsible for the development of the following projects:</div>
 
 + [Project 1](https://github.com/JhenyfferOliveira/etl-espaco-logos): This repository contains an Instagram data pipeline for an NGO, which collects social media metrics via the Meta API, stores raw data in Google Sheets, and powers dashboards in Looker using Python automation.
 
-  
+
+<div align="justify"><h2>🏆 Hackaton</h2></div>
+<div align="justify">As a participant in hackathons events, I contributed to the development of the following projects:</div>
+
++ [Competition 1 – Ada Hack](https://github.com/JhenyfferOliveira/Hackaton-ADAHACK): As a member of team DD-08, known as InclusiData Alchemy, I designed a diversity and inclusion solution based on data provided by Corp Solutions, a fictitious company for the competition. This project won **2nd place** in the data category, among nine teams.
+
+ 
 <div align="justify"><h2><a href="https://ada.tech/" target="_blank" rel="noreferrer"> <img src="adatech.jpg" alt="Ada Tech" width="20" height="20"/></a> Bootcamp by Ada Tech – Data Science</h2></div>
 <div align="justify">As a student, I was responsible for the development of the following projects:</div>
 
