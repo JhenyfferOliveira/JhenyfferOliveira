@@ -30,7 +30,7 @@
 
 -> 🌱 I'm currently working on improving my hard skills in SQL, Python, statistics, and data visualization (Power BI, Tableau, Looker Studio, Excel)
 
--> 📝 I share some of my experience about my career in articles on [medium](https://medium.com/@jhenyffer.tech)
+-> 📝 I share some of my experience about my career in articles on [medium](https://medium.com/@jhenyffer-oliveira)
 
 -> 📫 You can reach me at **jhenyffer.tech@gmail.com**
 
